@@ -1,0 +1,3 @@
+how to install git ?
+yum install git -y 
+git init . ( used for creating a empty repo )
